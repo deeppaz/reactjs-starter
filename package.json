@@ -1,11 +1,11 @@
 {
   "name": "reactjs-starter",
   "keywords": [
-    "reactjs, reactjs-starter, vite, react+vite, template, boilerplate, axios, services"
+    "reactjs, reactjs-starter, vite, react+vite, template, boilerplate, axios, services, tailwindcss, antdesign, antd, reqres, prettier, eslint"
   ],
   "author": "deeppaz",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
