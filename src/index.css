@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-layout .ant-layout-sider-zero-width-trigger {
+  background-image: linear-gradient(
+    to right,
+    #e52d27 0%,
+    #c43042 51%,
+    #e52d27 100%
+  );
+}
